@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>E:\Primo\uralchem_test\Main.ltw</Key>
+            <Value>0666686f-111f-400d-968d-5f3b85be6162</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\mayorov.pv\Documents\Primo\uralchem_test\Main.ltw</string>
+        <string>E:\Primo\uralchem_test\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
